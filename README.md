@@ -1,3 +1,13 @@
+# Assuntos deste projeto
+
+1. Instalação do Angular
+2. Criar um projeto Angular
+3. Conhecer a arqitetura do projeto Angular
+4. Criar componenetes Angular
+5. Ciclo de vida de um componente Angular
+6. Angular Lifecycle Hooks 
+
+
 # MeuPrimeiroProjeto
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
