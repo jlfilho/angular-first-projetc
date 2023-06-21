@@ -1,11 +1,17 @@
 # Assuntos deste projeto
 
+## Aula componente
 1. Instalação do Angular
 2. Criar um projeto Angular
 3. Conhecer a arqitetura do projeto Angular
 4. Criar componenetes Angular
 5. Ciclo de vida de um componente Angular
 6. Angular Lifecycle Hooks 
+
+## Aula data binding
+1. Interpolation
+2. Property binding
+3. Two-way binding
 
 
 # MeuPrimeiroProjeto

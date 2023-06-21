@@ -1,0 +1,35 @@
+button {
+  display: inline-block;
+  margin: 10px;
+  padding: 5px 15px 5px;
+  background-color: cadetblue;
+}
+
+#Oculta {
+  display: block;
+  visibility: hidden;
+}
+
+#Visivel {
+  display: block;
+  visibility: visible;
+  border-style: solid;
+  border-color: cornflowerblue;
+}
+
+textarea {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+p {
+  width: 50%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: blue;
+  text-align: justify;
+}

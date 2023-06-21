@@ -1,0 +1,23 @@
+<h1>Interpolation:</h1>
+<p>Nome: {{ nome }}</p>
+<p>Idade: {{ idade }}</p>
+<p>Ano de nacimento: {{ 2023 - idade }}</p>
+
+<h1>Property binding:</h1>
+
+<img [id]="idImg" [src]="imgSrc">
+
+<h1>Event binding:</h1>
+
+<button (click)="ocultarImg()"> {{ idImg }} </button>
+
+<button (click)="trocarImg()"> Trocar </button>
+
+<h1>Two-way binding:</h1>
+
+<p>{{ texto }}</p>
+
+<label>Informe seu texto:</label>
+<textarea [(ngModel)]="texto" rows="10" cols="30"
+placeholder="Seu texto aqui..">
+</textarea>
