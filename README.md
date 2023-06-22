@@ -13,6 +13,11 @@
 2. Property binding
 3. Two-way binding
 
+## Aula diretivas
+1. Diretivas de componente
+2. Diretivas de atributos
+3. Diretivas comportamentais
+
 
 # MeuPrimeiroProjeto
 

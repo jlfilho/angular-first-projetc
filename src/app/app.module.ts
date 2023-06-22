@@ -7,13 +7,15 @@ import { TitleComponent } from './title/title.component';
 import { MessageComponent } from './message/message.component';
 import { DataBindingComponent } from './data-binding/data-binding.component';
 import { FormsModule } from '@angular/forms';
+import { DiretivasEstruturaisComponent } from './diretivas-estruturais/diretivas-estruturais.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     TitleComponent,
     MessageComponent,
-    DataBindingComponent
+    DataBindingComponent,
+    DiretivasEstruturaisComponent
   ],
   imports: [
     FormsModule,
